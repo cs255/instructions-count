@@ -1,0 +1,10 @@
+[package]
+name = "simple"
+version = "0.1.0"
+authors = ["Jacob Bisnett <jacob.bisnett@gmail.com>"]
+
+[lib]
+name = "simple_pass"
+plugin = true
+
+[dependencies]
